@@ -14,3 +14,4 @@ function leapYear(year)
 		}
 	}
 }
+leapYear(2000);
